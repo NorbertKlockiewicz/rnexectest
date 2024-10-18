@@ -4,6 +4,6 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nklockiewicz.rnexectest</groupId>
-  <artifactId>executorch-llama</artifactId>
-  <version>1.0.2</version>
+  <artifactId>rnexectest</artifactId>
+  <version>1.0.3</version>
 </project>
